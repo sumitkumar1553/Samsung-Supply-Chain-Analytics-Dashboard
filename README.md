@@ -123,7 +123,7 @@ Provides customer and sales analytics:
 <img width="635" height="371" alt="Home_Dashboard" src="https://github.com/user-attachments/assets/2b1b4715-ba38-4b7d-bf5e-55dc85800d75" />
 
 ## 📈 Overview Dashboard
-![Uploading OverView_Dashboard.png…]()
+<img width="641" height="379" alt="OverView_Dashboard" src="https://github.com/user-attachments/assets/87ea19f4-227c-431a-872f-2aa6495b150c" />
 
 ## 🚚 Supplier Dashboard
 <img width="634" height="379" alt="Supplier_Dashboard" src="https://github.com/user-attachments/assets/ce4cf7e9-0376-43ea-8f91-d5581b64e577" />
